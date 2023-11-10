@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "h3q3wldY6bTOTaH1sC2Jbloj8eHdQXGNhyaypImA2l+aVzgqQU3doIGtUYXzk3VyGam1eCu2Z9MZBbbA+xgZ+A==",
+  "dgSpecHash": "sanCJeRmdPfXqDuxP/Yt/bap3offcdAuWTEdIFKiTGpDz1SRhUOrY6mNTSD3+WG5pHFrX7ElfJxu18Y409qg+Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\bceyhan\\OneDrive - Infor\\Documents\\_yasar\\SE 4458 SA for LargeScale\\code\\TodoApi\\TodoApi.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\bceyhan\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\bceyhan\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",
     "C:\\Users\\bceyhan\\.nuget\\packages\\messagepackanalyzer\\2.1.152\\messagepackanalyzer.2.1.152.nupkg.sha512",
+    "C:\\Users\\bceyhan\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.13\\microsoft.aspnetcore.authentication.jwtbearer.7.0.13.nupkg.sha512",
     "C:\\Users\\bceyhan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.13\\microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
     "C:\\Users\\bceyhan\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.0\\microsoft.aspnetcore.razor.language.6.0.0.nupkg.sha512",
     "C:\\Users\\bceyhan\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
