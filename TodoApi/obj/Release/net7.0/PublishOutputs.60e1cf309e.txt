@@ -9,6 +9,7 @@ C:\Users\bceyhan\OneDrive - Infor\Documents\_yasar\SE 4458 SA for LargeScale\cod
 C:\Users\bceyhan\OneDrive - Infor\Documents\_yasar\SE 4458 SA for LargeScale\code\TodoApi\bin\Release\net7.0\publish\Humanizer.dll
 C:\Users\bceyhan\OneDrive - Infor\Documents\_yasar\SE 4458 SA for LargeScale\code\TodoApi\bin\Release\net7.0\publish\MessagePack.dll
 C:\Users\bceyhan\OneDrive - Infor\Documents\_yasar\SE 4458 SA for LargeScale\code\TodoApi\bin\Release\net7.0\publish\MessagePack.Annotations.dll
+C:\Users\bceyhan\OneDrive - Infor\Documents\_yasar\SE 4458 SA for LargeScale\code\TodoApi\bin\Release\net7.0\publish\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\bceyhan\OneDrive - Infor\Documents\_yasar\SE 4458 SA for LargeScale\code\TodoApi\bin\Release\net7.0\publish\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\bceyhan\OneDrive - Infor\Documents\_yasar\SE 4458 SA for LargeScale\code\TodoApi\bin\Release\net7.0\publish\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\bceyhan\OneDrive - Infor\Documents\_yasar\SE 4458 SA for LargeScale\code\TodoApi\bin\Release\net7.0\publish\Microsoft.Bcl.AsyncInterfaces.dll

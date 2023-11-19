@@ -277,3 +277,4 @@ C:\Users\bceyhan\OneDrive - Infor\Documents\_yasar\SE 4458 SA for LargeScale\cod
 C:\Users\bceyhan\OneDrive - Infor\Documents\_yasar\SE 4458 SA for LargeScale\code\TodoApi\obj\Release\net7.0\TodoApi.pdb
 C:\Users\bceyhan\OneDrive - Infor\Documents\_yasar\SE 4458 SA for LargeScale\code\TodoApi\obj\Release\net7.0\TodoApi.genruntimeconfig.cache
 C:\Users\bceyhan\OneDrive - Infor\Documents\_yasar\SE 4458 SA for LargeScale\code\TodoApi\obj\Release\net7.0\ref\TodoApi.dll
+C:\Users\bceyhan\OneDrive - Infor\Documents\_yasar\SE 4458 SA for LargeScale\code\TodoApi\bin\Release\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
