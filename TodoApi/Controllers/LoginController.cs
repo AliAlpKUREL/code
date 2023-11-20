@@ -45,8 +45,10 @@ namespace TodoApi.Controllers
 
         private string Generate(UserModel user)
         {
-            var securityKey = new Microsoft.IdentityModel.Tokens.SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config["Jwt:Key"]));
-            var credentials = new Microsoft.IdentityModel.Tokens.SigningCredentials(securityKey, Microsoft.IdentityModel.Tokens.SecurityAlgorithms.HmacSha256);
+            var securityKey = new Microsoft.IdentityModel.Tokens.SymmetricSecurityKey(
+                Encoding.UTF8.GetBytes(_config["Jwt:Key"]));
+            var credentials = new Microsoft.IdentityModel.Tokens.SigningCredentials(securityKey,
+                Microsoft.IdentityModel.Tokens.SecurityAlgorithms.HmacSha256);
 
             var claims = new[]
             {
